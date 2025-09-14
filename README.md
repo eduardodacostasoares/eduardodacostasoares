@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![BearWaving](https://github.com/user-attachments/assets/498320f9-3b34-4cab-8faa-bd53db21f90a)" />
+  <img src="BearWaving.webp" />
 </p>
 
 <!--
