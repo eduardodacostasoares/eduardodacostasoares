@@ -1,4 +1,7 @@
-![alt text](https://tenor.com/view/hello-bear-waving-friendly-bear-grizzly-bears-waving-gif-8647530)
+
+![BearWaving](https://github.com/user-attachments/assets/498320f9-3b34-4cab-8faa-bd53db21f90a)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
