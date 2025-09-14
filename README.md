@@ -1,4 +1,4 @@
-
+![alt text](https://tenor.com/view/hello-bear-waving-friendly-bear-grizzly-bears-waving-gif-8647530)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
