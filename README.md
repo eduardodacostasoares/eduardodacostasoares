@@ -7,10 +7,10 @@
 </p>
 <p align="center">
   <a align="center" href="https://www.instagram.com/ecs.1992/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <img height="50" src="6929237_instagram_icon.png"/>
   </a>
   <a align="center" href="www.linkedin.com/in/eduardo-da-costa-soares">
-    <img height="50" src="https://github.com/eduardodacostasoares/eduardodacostasoares/blob/master/Documents/Projects/files/5296501_linkedin_logo_icon.png"/>
+    <img height="50" src="5296501_linkedin_logo_icon.png"/>
   </a> 
 </p>
 
