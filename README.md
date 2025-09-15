@@ -22,4 +22,4 @@
 - 💬 Ask me about QA and AI/ML
 - 📫 How to reach me: eduardosoares.adv1001@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Besides I love to solve real problems with logical thinking, I have a bachelor degree in Law (Yes, I worked as a lawyer (rofl))
+- ⚡ Fun fact: Besides I love to solve real problems with logical thinking, I have a bachelor degree in Law (Yes, I worked as a lawyer XD)
