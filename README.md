@@ -9,7 +9,7 @@
   <a align="center" href="https://www.instagram.com/ecs.1992/">
     <img height="50" src="https://github.com/eduardodacostasoares/eduardodacostasoares/blob/a655058d2ac4b7f033c527c398affb0d09e15932/6929237_instagram_icon.png"/>
   </a>
-  <a align="center" href="www.linkedin.com/in/eduardo-da-costa-soares">
+  <a align="center" href="https://www.linkedin.com/in/eduardo-da-costa-soares">
     <img height="50" src="https://github.com/eduardodacostasoares/eduardodacostasoares/blob/master/Documents/Projects/files/5296501_linkedin_logo_icon.png"/>
   </a> 
 </p>
