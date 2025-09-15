@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning RAG and CAG.
 - 👯 I’m looking to collaborate on projects focused on LLMs
 - 🤔 I’m looking for help with AI market job
-- 💬 Ask me about QA and AI/ML
+- 💬 Let's talk about new technologies or... about the universe.
 - 📫 How to reach me: eduardosoares.adv1001@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Besides I love to solve real problems with logical thinking, I have a bachelor degree in Law (Yes, I worked as a lawyer XD)
