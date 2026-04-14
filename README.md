@@ -85,11 +85,6 @@ Spark MLlib, distributed data processing, and predictive modeling.
 
 ---
 
-# 📊 GitHub Stats
-
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardodacostasoares&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodacostasoares&layout=compact&theme=tokyonight)
 
 
 ---
